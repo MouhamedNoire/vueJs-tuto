@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "mouhamedNoire",
+      "email": "mouhamedNOire@test.com",
+      "password": "passer@123",
+      "id": 1
+    },
+    {
+      "name": "bouba",
+      "email": "bouba@gmail.com",
+      "password": "passer",
+      "id": 2
+    },
+    {
+      "name": "badou",
+      "email": "badou@gmail.com",
+      "password": "passer",
+      "id": 3
+    },
+    {
+      "name": "Ahmadou",
+      "email": "Ahmadou@gmail.com",
+      "password": "passer",
+      "id": 4
+    },
+    {
+      "name": "fatou",
+      "email": "fatou@gmail.com",
+      "password": "passer",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "Ahmadou@gmail.com",
+      "password": "passer",
+      "id": 6
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "le terrou-bi",
+      "location": "dakar , corniche ouest",
+      "description": "restaurant"
+    },
+    {
+      "id": 2,
+      "name": "Le Ngor",
+      "location": "dakar , ngor almadie",
+      "description": "restaurant sur la plage"
+    },
+    {
+      "id": 3,
+      "name": "Pullman",
+      "location": "dakar , centre ville",
+      "description": "restaurant de luxe"
+    },
+    {
+      "id": 4,
+      "name": "le comptoir",
+      "location": "dakar centre ",
+      "description": "restaurant de luxe"
+    },
+    {
+      "name": "Le virage ",
+      "location": "Dakar , corniche",
+      "description": "restaurant cotier",
+      "id": 6
+    },
+    {
+      "name": "Mims",
+      "location": "Dakar",
+      "description": "restaurant tres clean",
+      "id": 7
+    }
+  ]
+}
